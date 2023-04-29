@@ -1,5 +1,9 @@
 
--此编译脚本来自P3TERX大神一键编译脚本，感谢P3TERX大神！！！        
+-此编译脚本来自P3TERX大神一键编译脚本，感谢P3TERX大神！！！   
+
+#### 打开下面链接生成.config配置文件
+#### [https://hackyes.github.io/openwrt-menuconfig/index.html](https://hackyes.github.io/openwrt-menuconfig/index.html)
+#### 编辑 .config 文件，把内容清空替换成上面链接生成的配置内容
 
 # 编译说明
 - 注册登陆github账号，然后点我仓库右上角的“Fork”把我的脚本Fork到你的仓库，按☆Star开始编译
